@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZO6vc60q+pCLaph5tynDS7e+8O78XMejGTcjwd6Y7ww+P6SkSW7xhs6Jykt/mzrawicldeERUExMKe2BYYOGww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caliv\\OneDrive\\Escritorio\\100921DESCY3\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caliv\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\caliv\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

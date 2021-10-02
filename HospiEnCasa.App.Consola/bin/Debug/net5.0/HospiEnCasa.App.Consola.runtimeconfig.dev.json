@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\caliv\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\caliv\\.nuget\\packages"
+    ]
+  }
+}
