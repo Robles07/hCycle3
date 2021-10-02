@@ -10,6 +10,7 @@ namespace HospiEnCasa.App.Consola
         private static IRepositorioMedico _repoMedico = new RepositorioMedico();
         static void Main(string[] args)
         {
+            //Por favor no olvidar implementar los metodos faltantes
             Console.WriteLine("Hello World!");
             //AddPaciente();
             //IndexPacientes();
